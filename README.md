@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ### 💳 Language Card
 
-<img align="center" alt="vilchezdanny's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilchezdanny&&layout=compact&&theme=tokyonight" />
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=vilchezdanny&show_icons=true&theme=radical)
 
 <br />
 
