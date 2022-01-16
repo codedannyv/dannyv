@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vilchezdanny/vilchezdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I am Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
-<hr/>
+
 
 ### I am a self-taught Data Scientist. Currently I am a Data Analyst at LSU's College of Science.
 - 🔭 I'm currently working on a blog using HUGO and github pages.<br />
@@ -40,7 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="vilchezdanny | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
-[<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+
 
 
 <hr/>
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 [<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
-[<img align="left" alt="tableau" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][tableau]
+[<img align="left" alt="tableau" width="33px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" />][tableau]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 <br/>
 
@@ -72,7 +69,7 @@ Here are some ideas to get you started:
 
 ### 💳 Language Card
 
-<img align="center" alt="vilchezdanny's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilchezdaniel&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="vilchezdanny's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilchezdanny&&layout=compact&&theme=tokyonight" />
 
 <br />
 
