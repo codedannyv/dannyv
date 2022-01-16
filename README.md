@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ### I am a self-taught Data Scientist. Currently I am a Data Analyst at LSU's College of Science.
 - 🔭 I'm currently working on a blog using HUGO and github pages.<br />
 - 🌱 I’m currently learning web scraping.<br />
-- - 👯 I’m looking to collaborate on more open source projects.<br />
+- 👯 I’m looking to collaborate on more open source projects.<br />
 - 😄 Pronouns: he/him.<br />
 - 🥅 2022 Goals: Add two projects to my data science portfolio.<br />
-- ⚡ Fun fact: All 
+- ⚡ Fun fact: All my pets are named after a Harry Potter characters
 <br/>
 <hr/>
 
