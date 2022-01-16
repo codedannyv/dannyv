@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I am Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://giphy.com/embed/PcDeJOYXcX0ENsrOvj/video" alt="Coder GIF" height="280">][myprofile]
-<hr/>
+
 
 ### I am a self-taught Data Scientist. Currently I am a Data Analyst at LSU's College of Science.
 - 🔭 I'm currently working on a blog using HUGO and github pages.<br />
