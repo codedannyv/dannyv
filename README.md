@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 [<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
-[<img align="left" alt="tableau" width="33px" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" />][tableau]
+[<img align="left" alt="tableau" width="33px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />][tableau]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 <br/>
 
