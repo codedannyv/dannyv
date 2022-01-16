@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+
 
 <hr/>
 
