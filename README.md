@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I am Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
+### Hi, my name is Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
 
 
-### I am a self-taught Data Analyst, and currently work at LSU's College of Science.
+### I am a Data Analyst, and currently work at LSU's College of Science.
 - 🔭 I'm currently working on a blog using HUGO and github pages.<br />
 - 🌱 I’m currently learning web scraping.<br />
 - 👯 I’m looking to collaborate on more open source projects.<br />
