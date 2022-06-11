@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I am Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px"> 
+### Hi, I am Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="2px" width="2px"> 
 
 
 ### I am a self-taught Data Analyst, and currently work at LSU's College of Science.
