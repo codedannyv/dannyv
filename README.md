@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ### I am a Data Analyst, and currently work at LSU's College of Science.
-- 🔭 I'm currently working on a blog using HUGO and github pages.<br />
-- 🌱 I’m currently learning web scraping.<br />
+- 🔭 I'm currently working on pulling my Spotify Data from the Spotify API<br />
+- 🌱 I’m currently learning scikit-learn and Tensor Flow<br />
 - 👯 I’m looking to collaborate on more open source projects.<br />
 - 😄 Pronouns: he/him.<br />
 - 🥅 2022 Goals: Add two projects to my data science portfolio.<br />
