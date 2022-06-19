@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi, my name is Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
 
 
-### I am a Data Analyst, and currently work at LSU's College of Science.
+### I'm a Data Analyst, and currently work at LSU's College of Science.
 - 🔭 I'm currently working on pulling my Spotify Data from the Spotify API<br />
 - 🌱 I’m currently reading [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/ref=sr_1_2_sspa?keywords=pytorch&qid=1655647352&s=books&sprefix=pytorch%2Cstripbooks%2C80&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlA4RlBSU0FTOERDJmVuY3J5cHRlZElkPUEwODI1OTgwM1ROT0lVWEc0WTBVQiZlbmNyeXB0ZWRBZElkPUEwNjY0NDk2MlpFRFRIN0xURTBQQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=#customerReviews)<br />
 - 👯 I’m looking to collaborate on more open source projects.<br />
