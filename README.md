@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ![banner](banner.png)
 
 ### Hi, my name is Danny and I love working with data. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
-- 🔭 I'm currently working on pulling my [Spotify Data](https://github.com/vilchezdanny/spotifyWrapped) from the Spotify API<br />
-- 🌱 I’m currently studying for the [Tableau Data Analyst Certification](https://www.tableau.com/learn/certification/certified-data-analyst)
+- 🔭 I'm currently working on scraping the most common Portuguese words to develop anki cards. 
+- 🌱 I’m currently learning how to build web apps with Django([https://www.tableau.com/learn/certification/certified-data-analyst](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1801813051))
 - 😄 Pronouns: he/him.<br />
-- 🥅 2022 Goals: Add two projects to my data science portfolio.<br />
+- 📫 How to reach me: dannyv.analytics@gmail.com
 - ⚡ Fun fact: All my pets are named after a Harry Potter characters
 <br/>
 <hr/>
