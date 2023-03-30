@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ![banner](banner.png)
 
 ### Hi, my name is Danny and I love working with data. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
-- 🔭 I'm currently working on scraping the most common Portuguese words to develop anki cards. 
-- 🌱 I’m currently learning how to build web apps with [Django](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1801813051)
 - 😄 Pronouns: he/him.<br />
 - 📫 How to reach me: dannyv.analytics@gmail.com
 - ⚡ Fun fact: All my pets are named after a Harry Potter characters
