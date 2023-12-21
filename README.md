@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, my name is Danny and I love working with data. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> 
 - 😄 Pronouns: he/him.<br />
-- 📫 How to reach me: dannyv.analytics@gmail.com
+- 📫 How to reach me: dannyv@fkitlabs.io
 - ⚡ Fun fact: All my pets are named after a Harry Potter characters
 <br/>
 <hr/>
