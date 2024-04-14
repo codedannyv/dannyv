@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 ### 💳 Language Card
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dannyv&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=dannyv&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=codedannyv&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=codedannyv&show_icons=true&theme=radical)
 
 
 
